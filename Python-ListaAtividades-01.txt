@@ -1,0 +1,42 @@
+﻿LTP2 - Fundamentos 
+Lista de Exercícios 01 
+Desenvolva um algoritmo em Python que cumpra com os objetivos dos enunciados abaixo. Crie um arquivo para resolver cada problema. 
+1) Escreva um programa que leia um número inteiro e imprima o valor de seu sucessor e antecessor. 
+2) Escreva um programa que leia o valor do raio de um círculo e calcule e imprima a área do círculo correspondente. A área do círculo é π * raio2, considere π=3,141592. 
+3) Escreva um programa que leia um valor em real e a cotação do dólar. Em seguida, imprima o valor correspondente em dólares 
+4) Uma empresa contrata um colaborador a R$ 120,00 por dia. Escreva um programa que solicite o número de dias trabalhados pelo encanador e imprima a quantia líquida que deverá ser paga, sabendo-se que são descontados 8% para imposto de renda. 
+5) Escreva um programa que exiba o valor total a ser pago em empréstimo bancário. O programa deve solicitar ao usuário os seguintes dados: - Valor emprestado 
+- Meses para quitar o empréstimo 
+- Taxa de juros mensais 
+Utilize a seguinte fórmula para calcular o valor total pago ao final do empréstimo: 
+ValorFinal = ValorEmprestado * (1 + juros) ** meses 
+6) Escreva um programa que leia um número entre 0 e 60 e imprima o seu sucessor, sabendo que o sucessor de 60 é 0. Não pode ser utilizado nenhuma estrutura de seleção (decisão) e nem repetição.
+7) Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa apenas em dias.
+8) 4. Faça um algoritmo que leia a idade de uma pessoa expressa em dias e mostre-a expressa em anos, meses e dias.
+9) Faça um algoritmo que leia as 3 notas de um aluno e calcule a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é: 2,3 e 5, respectivamente.
+10) Faça um algoritmo que leia o tempo de duração de um evento em uma fábrica expressa em segundos e mostre-o expresso em horas, minutos e segundos.
+11) O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo que leia o custo de fábrica de um carro e escreva o custo ao consumidor.
+12) Calcule a média aritmética das 3 notas de um aluno e mostre, além do valor da média, uma mensagem de "Aprovado", caso a média seja igual ou superior a 6, ou a mensagem "reprovado", caso contrário.
+13) Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
+14) Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:
+infantil A = 5 - 7 anos
+infantil B = 8-10 anos
+juvenil A = 11-13 anos
+juvenil B = 14-17 anos
+adulto = maiores de 18 anos
+15) Escreva um algoritmo que leia 3 números inteiros e mostre o maior deles.
+16) Escreva um algoritmo que leia o código de um aluno e suas três notas. Calcule a média ponderada do aluno, considerando que o peso para a maior nota seja 4 e para as duas restantes, 3. Mostre o código do aluno, suas três notas, a média calculada e uma mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
+17) Elaborar um algoritmo que lê 3 valores a,b,c e verifica se eles formam ou não um triângulo. Supor que os valores lidos são inteiros e positivos. Caso os valores formem um triângulo, calcular e escrever a área deste triângulo. Se não formam triângulo escrever os valores lidos. ( se a > b + c não formam triângulo algum, se a é o maior).
+18) Escrever um algoritmo que lê a hora de início de um jogo e a hora do final do jogo (considerando apenas horas inteiras) e calcula a duração do jogo em horas, sabendo-se que o tempo máximo de duração do jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
+19) Escrever um algoritmo que lê um conjunto de 4 valores i, a, b, c, onde i é um valor inteiro e positivo e a, b, c, são quaisquer valores reais e os escreva. A seguir: 
+a) Se i=1 escrever os três valores a, b, c em ordem crescente.
+b) Se i=2 escrever os três valores a, b, c em ordem decrescente.
+c) Se i=3 escrever os três valores a, b, c de forma que o maior entre a, b, c fique dentre os dois.
+20) Escrever um algoritmo que lê um valor em reais e calcula qual o menor número possível de notas de 100, 50, 10, 5 e 1 em que o valor lido pode ser decomposto. Escrever o valor lido e a relação de notas necessárias.
+21) Escrever um algoritmo que lê:
+- a percentagem do IPI a ser acrescido no valor das peças
+- o código da peça 1, valor unitário da peça 1, quantidade de peças 1
+- o código da peça 2, valor unitário da peça 2, quantidade de peças 2
+O algoritmo deve calcular o valor total a ser pago e apresentar o resultado.
+Fórmula : (valor1*quant1 + valor2*quant2)*(IPI/100 + 1)
+22) Escrever um algoritmo que lê a hora de início e hora de término de um jogo, ambas subdivididas em dois valores distintos : horas e minutos. Calcular e escrever a duração do jogo, também em horas e minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que o jogo pode iniciar em um dia e terminar no dia seguinte.
